@@ -5,3 +5,4 @@
 3. ls -l : Display current directory contents in a long format
 4. ls -la : Display current directory contents, including hidden files (starting with .)
 5. la -an : Display current directory contents wih more info (user and grou id, hidden files)
+6. mkdir /tmp/my_first_directory/ : Create a directory in /tmp/
