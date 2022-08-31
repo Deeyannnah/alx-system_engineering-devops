@@ -1,1 +1,3 @@
-1. pwd - prints the absolute path name of the current working directory
+
+0. pwd - Prints the absolute path name of the current working directory
+1. ls - Display content of current directory
