@@ -4,3 +4,4 @@
 2. cd ~ : Change directory to home directory
 3. ls -l : Display current directory contents in a long format
 4. ls -la : Display current directory contents, including hidden files (starting with .)
+5. la -an : Display current directory contents wih more info (user and grou id, hidden files)
